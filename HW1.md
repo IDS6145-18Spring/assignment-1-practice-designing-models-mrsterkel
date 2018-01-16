@@ -1,8 +1,8 @@
 # Assignment1 - Practice Designing Models (Template)
 (remove: **text between brackets to be removed**)
 
-> * Participant name: (your name)
-> * Project Title: (Title of the problem you are looking and modeling)
+> * Participant name: Michael Sterkel (Your name)
+> * Project Title: Food Waste in Supermarkets (Title of the problem you are looking and modeling)
 
 ## General Introduction
 
@@ -13,6 +13,16 @@ A **smart city** is an urban area that uses different types of electronic data c
 (remove: States your motivation clearly: why is it important / interesting to solve this problem?)
 (remove: Add real-world examples, if any)
 (remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+
+Orlando is a bustling city in which a lot of people associate with Mickey Mouse and the 4 parks he runs around and the swarms of tourists that come visit him every year.  However, Orlando is home to people who live, work and play in the area and thus must meet basic needs of having place to live and procuring things to eat.  For most residents of Orlando, procuring things to eat means either going to a restaurant or buying food at a local supermarket and then taking the food home to cook.  Supermarkets, with our interconnected global economy, are able to provide almost any type of food year round to provide many different choices for the consumer.  Now this choice rates very high with the modern consumer as they can buy and prepare whatever they want anytime of yea.
+
+The downside to this type of design is that supermarkets must stock a multitue of food that may not get bought before it is no longer sellable to the public.  On top of this we, the consumer, have become very accusted to only buying the best looking produce or what we have been told is the best looking and will shun the items that do no meet this criteria even if they are still edible.  
+
+Find a solution to getting this produce sold to cut down on food waste is an important topic to understand and try and solve due to the amount of food wasted in the US annually.
+
+One solution that I have witnessed first hand is to have produce that is blemsihed or not quite as fresh be heavily discounted.  This could persuade consumers to overlook the blemish, when it has no bearing on the item, and purchase it because it is not at full price.  I myself have done this at supermarkets when I lived out in California and they did this.
+
+The goal of is to simulate consumers buying produce based on its quality, which in this model is based on number of days produce has been on the shelf.  T
 
 ## Requirements (Experimental Design)
 
