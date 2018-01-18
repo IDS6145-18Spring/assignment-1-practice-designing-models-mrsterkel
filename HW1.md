@@ -52,6 +52,10 @@ Inputs to the system would be the amount of produce in the store, the age of the
 
 In order to test the hypothesis about whether selling older, blemished produce at a lower price point will reduce food waste a simulation of supermarket will be created.  The simulation will focus on the produce department.  Full simulation details are here.
 
+Linky to my stuff
+
+[**Analysis Readme**](model/object_diagram.md)
+
 
 ## Smart City (My Problem) Model
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
