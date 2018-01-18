@@ -50,11 +50,7 @@ Inputs to the system would be the amount of produce in the store, the age of the
 
 (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
-In order to test the hypothesis about whether selling older, blemished produce at a lower price point will reduce food waste a simulation of supermarket will be created.  The simulation will focus on the produce department.  Full simulation details are here.
-
-Linky to my stuff
-
-[**Analysis Readme**](analysis/SupermarketFoodWaste.md)
+The simulation for this the supermarket waste problem will be built using Agent Based Simulation techniques and will focus on the produce section.  The simulation will test the hypothesis of whether selling older, blemished produce at a lower price point will reduce food waste a simulation of supermarket will be created.  Information about shopping habits will be gathered to provide inputs to the simulation.  Full details are provided in the [**Analysis Readme**](analysis/SupermarketFoodWaste.md).
 
 
 ## Smart City (My Problem) Model
