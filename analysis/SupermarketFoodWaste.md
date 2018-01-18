@@ -7,8 +7,8 @@ The simulation would be constructed in an ABS program, such as Anylogic.  The si
 
 The setup of the produce area will be kept simple to allow the focus to be on the buying patterns of the customers.  The area will be simple U shape where customers enter on one side of the “U” and exit on the other.  The produce will be laid out on the outside (blue section) with the path the customers walk on the inside.  The heavily discounted section will be a section in the middle of hte "U" (the black section on the diagram).
 
-Insert Image Here
 
+![Store Layout Diagram](../images/Store_Layout.png)
 
 
 Vegetable and fruit sections will alternate in the blue areas and will be assigned random quantities from 0 to 50 and the reduced section area will have a max quantity of 100 and eaach section will have a price associated with buying 1 of that section's item.  There will be 3 of each section which will be labeled "Fruit 1", "Fruit 2" and "Fruit 3" and "Vegetable 1", "Vegetable 2", and "Vegetable 3."  The produce will be restocked in the sections every 3 days with all produce remaining put into a center discounted section (black section) and on day 4 will be 50% of original price, and on day 5 will be 25% of original price and on day 6 all produce in this section will be removed and replaced with newer stock from the shelves.  The amount sold from the sections and the amounts sold from the discounted section will be added together and subtracted from the total quantities on day 1 to determine the amount that was discarded and will be collected by the simulation.  
