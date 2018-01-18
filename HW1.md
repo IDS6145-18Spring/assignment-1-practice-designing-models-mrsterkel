@@ -54,7 +54,7 @@ In order to test the hypothesis about whether selling older, blemished produce a
 
 Linky to my stuff
 
-[**Analysis Readme**](model/object_diagram.md)
+[**Analysis Readme**](analysis/SupermarketFoodWaste.md)
 
 
 ## Smart City (My Problem) Model
