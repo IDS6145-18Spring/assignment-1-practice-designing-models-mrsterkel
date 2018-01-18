@@ -7,6 +7,8 @@
 
 ![Example Object Diagram](../images/class_example_diagram.png)
 
+![My example Object Diagram](../assignment-1-practice-designing-models-mrsterkel/images/POTS Object Diagram.jpg)
+
 (remove: More decription)
 (remove: Maybe a second or third diagram to highlight a point or aspect)
 
