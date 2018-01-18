@@ -41,6 +41,8 @@ Inputs to the system would be the amount of produce in the store, the age of the
 (remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
 (remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
+The below links provide details on the model.  The object diagram provide a high level overview of components, the Class diagram provides details, the behavior diagram provides details of the behavior of hte model and the Agent/User case provides details on what the Agent/s do.
+
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
