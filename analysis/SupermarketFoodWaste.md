@@ -1,5 +1,5 @@
 
-Supermarket Food Waste Simulation (make bold)
+**Supermarket Food Waste Simulation (make bold)**
 
 The problem of Supermarket Food waste is a complex one that does not have an analytical solution and therefore a simulation is required to help test the hypothesis of whether heavily discounting produce leads to less produce inventory that needs to be discarded.  In order to solve this an Agent Based Simulation was selected as the most appropriate category to solve the simulation.  Agent Based Simulation (ABS) was chosen due to the focus of the issue being the buying habits of customers (Agents) and how these can/cannot be swayed by a large change in price of up to 75% off.
 
