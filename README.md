@@ -43,7 +43,7 @@ The simulation for this the supermarket waste problem will be built using Agent 
 
 
 ## Smart City (My Problem) Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+[**Code template**](code/README.md) Links to page with code and code description.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
  [**POTS System**](code/POTS_system/README.md) 
