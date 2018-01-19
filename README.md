@@ -1,5 +1,4 @@
 # Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
 
 > * Participant name: Michael Sterkel 
 > * Project Title: Food Waste in Supermarkets 
