@@ -1,1 +1,1 @@
-![My example Object Diagram](../images/Supermarket_Behavior_Diagram.jpg)
+![My example Object Diagram](../images/SupermarketBehaviorDiagramFinal.jpg)
