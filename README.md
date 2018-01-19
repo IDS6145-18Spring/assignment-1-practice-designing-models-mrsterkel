@@ -46,4 +46,5 @@ The simulation for this the supermarket waste problem will be built using Agent 
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
-Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+ [**POTS System**](code/POTS_system/README.md) 
+ 
