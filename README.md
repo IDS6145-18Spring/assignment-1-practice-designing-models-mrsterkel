@@ -30,12 +30,12 @@ Inputs to the system would be the amount of produce in the store, the age of the
 
 ## Smart City (My Problem) Model
 
-The below links provide details on the model.  The object diagram provide a high level overview of components, the Class diagram provides details on attributes of the system, the behavior diagram provides details of the behavior of the model and the Agent/User case provides details on what the Agent/s do.
+The below links provide details on the model.  The object diagram provide a high level overview of components, the Class diagram provides details on attributes of the system and the behavior diagram provides details of the behavior of the model.
 
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+* [**Object Diagram**](model/object_diagram.md)
+* [**Class Diagram**](model/class_diagram.md)
+* [**Behavior Diagram**](model/behavior_diagram.md) 
+
 
 ## Smart City (My Problem) Simulation
 
